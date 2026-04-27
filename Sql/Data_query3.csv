@@ -1,0 +1,8 @@
+Region,avg_high_risk_disposable_income,avg_stable_disposable_income,income_drop,resilience_stress_test
+London,236.16,2654.89,2418.73,"Stress Test Failed"
+"South East",242.49,2417.14,2174.65,"Stress Test Failed"
+Scotland,271.06,2261.41,1990.34,"Stress Test Failed"
+"West Midlands",265.9,2203.23,1937.33,"Stress Test Failed"
+"North West",251.26,2103.72,1852.46,"Stress Test Failed"
+Wales,268.75,2000.18,1731.43,"Stress Test Failed"
+Yorkshire,284.57,1976.4,1691.83,"Stress Test Failed"

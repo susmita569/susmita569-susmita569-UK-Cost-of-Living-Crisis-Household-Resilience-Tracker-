@@ -1,0 +1,11 @@
+Region,Household_Type,Monthly_Income,Energy_Bill,ten_percent_income,is_fuel_poor
+"South East",Detached,3588.88,166.05,358.88800000000003,0
+London,Detached,4605.61,113.73,460.561,0
+"North West",Semi-Detached,3645.92,118.52,364.59200000000004,0
+"North West",Terraced,2590.58,128.88,259.058,0
+"West Midlands",Semi-Detached,1884.84,175.28,188.484,0
+Scotland,Detached,2914.13,176.71,291.413,0
+London,Flat,4776.27,132.32,477.62700000000007,0
+"West Midlands",Flat,3010.39,131.08,301.039,0
+London,Flat,4675.79,169.9,467.579,0
+"North West",Flat,2923.64,140.61,292.364,0
